@@ -6,4 +6,5 @@ Implementation of:
 - quick sort,
 - Insert sort,
 - Selection sort.
+
 Providing graph of asymptotic complexity for every sort operation.
